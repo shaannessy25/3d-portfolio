@@ -20,17 +20,14 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import live from "./live.png";
+import djtech from "./company/djtech.png";
 import trilliant from "./company/trilliant.png";
 import vanta from "./company/vanta.png";
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import quantum from "./company/quantumsociety.jpeg";
+import projectTracker from "./project-tracker.png";
+import myMusic from "./my-music.png";
 
 export {
   logo,
@@ -40,6 +37,7 @@ export {
   mobile,
   web,
   github,
+  live,
   menu,
   close,
   css,
@@ -55,14 +53,11 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
+  djtech,
   trilliant,
   vanta,
-  carrent,
-  jobit,
   tripguide,
   quantum,
+  projectTracker,
+  myMusic,
 };
